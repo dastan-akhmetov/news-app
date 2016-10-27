@@ -18,3 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+
+Route::get('/article/create', 'ArticlesController@create');
+
+Route::put('/home/change_role', 'HomeController@change_role');
