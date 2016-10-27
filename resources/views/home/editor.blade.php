@@ -8,7 +8,14 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in as an Editor!
+                    <div>
+                        <button class="btn btn-primary">Post an Article</button>
+                    </div>
+
+                    <div>
+                        <h3>News</h3>
+
+                    </div>
                 </div>
             </div>
         </div>

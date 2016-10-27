@@ -8,7 +8,6 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in as an Admin!
                     <style>
                         .user-roles th,
                         .user-roles td {
