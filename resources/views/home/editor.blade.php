@@ -9,12 +9,7 @@
 
                 <div class="panel-body">
                     <div>
-                        <button class="btn btn-primary">Post an Article</button>
-                    </div>
-
-                    <div>
-                        <h3>News</h3>
-
+                        <a href="/article/post" class="btn btn-primary">Post an Article</a>
                     </div>
                 </div>
             </div>
